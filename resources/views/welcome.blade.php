@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Dani King Of Alabamasakiya
+                    Tolak UU KPK
                 </div>
 
                 <div class="links">
